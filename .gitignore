@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore large or generated files
+*.wav
+*.png
+*.joblib
