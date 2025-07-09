@@ -9,4 +9,21 @@ __pycache__/
 *.wav
 *.png
 *.joblib
-venv/
+*.csv
+*.txt
+*.log
+
+# Ignore plots and visualizations
+*.png
+
+# Ignore generated folders
+reports/
+data/
+processed/
+png/
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
