@@ -67,7 +67,7 @@ def main():
         downloaded = download_audio(args.url, args.output)
         processed = trim_audio(downloaded, args.start, args.end)
         move_to_data_dir(processed)
-        logging.info("Ready to run visualize_breaths.py ✅")
+        logging.info("Ready to run visualize_breaths.py")
     except Exception as e:
         logging.error(f"Failed: {e}")
 
