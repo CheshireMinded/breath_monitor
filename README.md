@@ -10,7 +10,7 @@ DOI: https://doi.org/10.1016/j.cub.2024.05.057
 
 ## Project Goal
 
-Explore whether unique breathing patterns — captured using basic microphone equipment — can serve as a biometric fingerprint for identifying individuals **or** a behavioral signal for anomaly detection.
+Explore whether unique breathing patterns — captured using basic microphone equipment - can serve as a biometric fingerprint for identifying individuals **or** a behavioral signal for anomaly detection.
 
 This project supports:
 - **Supervised learning** when multiple samples per individual exist.
