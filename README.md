@@ -50,7 +50,7 @@ python record_audio.py
 ```
 To customize recording length:
 ```bash
-python record_audio.py --duration 15
+python record_audio.py --duration 60
 ```
 
 ### 2. Process Audio and Extract Features
