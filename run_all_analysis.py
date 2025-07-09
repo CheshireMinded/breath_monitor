@@ -6,8 +6,8 @@ scripts = [
     "plot_feature_importances.py",
     "plot_user_distributions.py",
     "cluster_users.py",
-    "feature_correlation_heatmap.py",  # ✅ Already present
-    "detect_anomalies.py"              # ✅ Newly added here
+    "feature_correlation_heatmap.py",  #  Already present
+    "detect_anomalies.py"              #  Newly added here
 ]
 
 # Setup logging
